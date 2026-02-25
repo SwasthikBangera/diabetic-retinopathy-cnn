@@ -1,2 +1,2 @@
-# MedDevice-RUL-Predictor
-Equipment Failure Prediction
+# Diabetic Retinopathy Detection CNN
+
