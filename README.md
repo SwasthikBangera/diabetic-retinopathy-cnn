@@ -19,5 +19,6 @@ Current screening bottlenecks:
 - Shortage of trained ophthalmologists in rural/developing regions
 - Manual grading is time-intensive and subject to inter-rater variability (κ ~0.63)
 - AI-assisted tools can pre-screen patients, flagging high-risk cases for specialist review
+
 This project simulates an **AI-assisted screening tool** aligned with
 FDA AI/ML SaMD (Software as a Medical Device) principles.
