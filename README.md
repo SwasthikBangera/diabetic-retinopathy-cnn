@@ -23,5 +23,5 @@ Current screening bottlenecks:
 This project simulates an **AI-assisted screening tool** aligned with
 FDA AI/ML SaMD (Software as a Medical Device) principles.
 
-📊 Dataset
+## 📊 Dataset
 APTOS 2019 (3662 fundus images & 5 DR grades) is sourced from Kaggle. The external validation uses Messidor-2 (1748 images).
